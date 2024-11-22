@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "springstudent",
+    "username": "root",
     "password": "springstudent",
     "database": "jobfinder2",
     "host": "127.0.0.1",
